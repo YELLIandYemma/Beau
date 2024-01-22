@@ -1,0 +1,17 @@
+body {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+button {
+  width: 6rem;
+  height: 2rem;
+  border-radius: 10px;
+  border-style: solid;
+  border-color: #000000;
+}/*# sourceMappingURL=index.css.map */
